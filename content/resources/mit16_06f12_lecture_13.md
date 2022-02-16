@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 13.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-06-principles-of-automatic-control-fall-2012/dfbdaedad1c061bf06c7d99d233d38d5_MIT16_06F12_Lecture_13.pdf
+file: /media/courses/16-06-principles-of-automatic-control-fall-2012/dfbdaedad1c061bf06c7d99d233d38d5_MIT16_06F12_Lecture_13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 16.06 Principles of Automatic Control, Lecture 13
 uid: dfbdaeda-d1c0-61bf-06c7-d99d233d38d5

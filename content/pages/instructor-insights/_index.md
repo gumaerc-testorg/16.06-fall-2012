@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 0c83e7ab-b911-a490-9f77-5c8b6f18ba76
 ---
@@ -64,28 +66,6 @@ Curriculum Information
 ### Offered
 
 Every fall
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![16-06_classroom-1.png]({{< resource_file 06020eb8-eb21-4fe4-ce6a-0d5783b4c01e >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    The gentle slope of this tiered lecture hall allows the professor to monitor student work easier during active learning exercises like peer instruction and concept questions.
-    
-*   ![16-06_classroom-2.png]({{< resource_file 9dc4f274-6f03-e12b-ca0c-eda6bc4ed658 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    The recitation classroom features ample chalkboards around the room for student work.
-    
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 

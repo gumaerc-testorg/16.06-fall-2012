@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding problem set 10.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-06-principles-of-automatic-control-fall-2012/a18cec257b71fc8ebccf47c5f8b43ef0_MIT16_06F12_ProblemsSet_10.pdf
+file: /media/courses/16-06-principles-of-automatic-control-fall-2012/a18cec257b71fc8ebccf47c5f8b43ef0_MIT16_06F12_ProblemsSet_10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 16.06 Principles of Automatic Control, Problem Set 10
 uid: a18cec25-7b71-fc8e-bccf-47c5f8b43ef0

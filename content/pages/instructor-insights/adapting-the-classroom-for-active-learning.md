@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 0c83e7ab-b911-a490-9f77-5c8b6f18ba76
 title: Adapting the Classroom for Active Learning
 uid: d2ea3eef-8a74-2079-83de-a78edd2c0d0e

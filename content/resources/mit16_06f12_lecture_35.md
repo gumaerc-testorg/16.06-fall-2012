@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information related to lecture 35.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-06-principles-of-automatic-control-fall-2012/8248aa5080bbdc62304fb7b037059939_MIT16_06F12_Lecture_35.pdf
+file: /media/courses/16-06-principles-of-automatic-control-fall-2012/8248aa5080bbdc62304fb7b037059939_MIT16_06F12_Lecture_35.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 16.06 Principles of Automatic Control, Lecture 35
 uid: 8248aa50-80bb-dc62-304f-b7b037059939

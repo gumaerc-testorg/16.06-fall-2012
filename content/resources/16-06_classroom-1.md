@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-06-principles-of-automatic-control-fall-2012/06020eb8eb214fe4ce6a0d5783b4c01e_16-06_classroom-1.png
+file: /media/courses/16-06-principles-of-automatic-control-fall-2012/06020eb8eb214fe4ce6a0d5783b4c01e_16-06_classroom-1.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 16-06_classroom-1.png
 uid: 06020eb8-eb21-4fe4-ce6a-0d5783b4c01e

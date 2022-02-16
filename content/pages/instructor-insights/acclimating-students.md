@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 0c83e7ab-b911-a490-9f77-5c8b6f18ba76
 title: Acclimating Students to Active Learning
 uid: f46b110e-9a78-a8d5-ca37-c10c7b0c9f8c

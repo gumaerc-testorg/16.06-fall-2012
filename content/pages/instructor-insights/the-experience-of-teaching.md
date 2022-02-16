@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 0c83e7ab-b911-a490-9f77-5c8b6f18ba76
 title: The Experience of Teaching an Active Learning Recitation
 uid: 5b3694e8-81dd-d2ff-d659-bba0e4b39f24
