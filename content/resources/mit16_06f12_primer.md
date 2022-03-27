@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 95f3f5ad-627b-f7f7-4567-a75b0685da0c
 resourcetype: Document
 title: 16.06 A primer on solving systems of linear equations
 uid: c507f498-eaba-a836-5599-e4b2950f6061

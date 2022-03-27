@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Adapting the Classroom for Active Learning
 parent_type: CourseSection
+parent_uid: d2ea3eef-8a74-2079-83de-a78edd2c0d0e
 resourcetype: Image
 title: tlp_2_photo.jpg
 uid: 1860acd3-a834-0fa2-e807-8a744147e792
