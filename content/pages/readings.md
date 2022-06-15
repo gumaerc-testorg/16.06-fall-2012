@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section outlines the assigned reading for different sections of
+  the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -165,7 +167,7 @@ Digital control
 Related Resources
 -----------------
 
-[A primer on solving systems of linear equations (PDF)]({{< baseurl >}}/resources/mit16_06f12_primer)
+{{% resource_link c507f498-eaba-a836-5599-e4b2950f6061 "A primer on solving systems of linear equations (PDF)" %}}
 
 [Control Tutorials for Matlab® and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)  
 This is a nice site at the University of Michigan with examples of how to use Matlab for control problem

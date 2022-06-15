@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This instructor insights page offers details about the classroom resources
+  Prof. Steven Hall recommends and ways to tailor your room for active learning.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -12,7 +14,7 @@ uid: d2ea3eef-8a74-2079-83de-a78edd2c0d0e
 
 _In this section, Prof. Steven Hall offers a few tips he uses to accommodate for active learning in his classroom._
 
-![Three students work at a long chalkboard to solve a recitation problem.]({{< resource_file 1860acd3-a834-0fa2-e807-8a744147e792 >}})
+{{< resource 1860acd3-a834-0fa2-e807-8a744147e792 >}}
 
 The ample blackboard space in the recitation classroom allows students to work simultaneously around the room. (Image courtesy of MIT OpenCourseWare.)
 

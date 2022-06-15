@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This instructor insights page includes a video in which Prof. Steven
+  Hall describes the feedback and response benefits of active learning recitations.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

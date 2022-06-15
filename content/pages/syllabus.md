@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, textbooks, use of MATLAB software, quizzes, the final exam, problem
+  sets, grading, collaboration and academic honesty, and late assignments and missed
+  quizzes.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

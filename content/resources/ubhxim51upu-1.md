@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-06-principles-of-automatic-control-fall-2012/1058710543bc873847c1896fb4c2a9ac_ubhxIM51UPU.pdf
+file: /courses/16-06-principles-of-automatic-control-fall-2012/1058710543bc873847c1896fb4c2a9ac_ubhxIM51UPU.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

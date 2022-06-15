@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This instructor insights page describes what it is like to teach active
+  learning recitations and includes a video with Prof. Steven Hall that describes
+  the joys and surprises of this technique.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

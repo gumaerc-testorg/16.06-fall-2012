@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This calendar outlines the sessions for the course including the relative
+  timing of the lectures, recitations, problem sets, and exams.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
