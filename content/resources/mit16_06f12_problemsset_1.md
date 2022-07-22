@@ -5,6 +5,7 @@ file: /courses/16-06-principles-of-automatic-control-fall-2012/890e764323e8a25d6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 16.06 Principles of Automatic Control, Problem Set 1
 uid: 890e7643-23e8-a25d-620c-dd4532dd5f95
 ---
 This resource contains information regarding problem set 1.
-

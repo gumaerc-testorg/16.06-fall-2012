@@ -6,6 +6,7 @@ file: /courses/16-06-principles-of-automatic-control-fall-2012/c507f498eabaa8365
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 16.06 A primer on solving systems of linear equations
 uid: c507f498-eaba-a836-5599-e4b2950f6061
 ---
 This resource contains information regarding a primer on solving systems of linear equations.
-

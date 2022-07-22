@@ -4,6 +4,7 @@ description: ''
 file: /courses/16-06-principles-of-automatic-control-fall-2012/476d305cf8ae527288652f725304ef98_ubhxIM51UPU.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

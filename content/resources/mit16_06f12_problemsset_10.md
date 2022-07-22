@@ -5,6 +5,7 @@ file: /courses/16-06-principles-of-automatic-control-fall-2012/a18cec257b71fc8eb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 16.06 Principles of Automatic Control, Problem Set 10
 uid: a18cec25-7b71-fc8e-bccf-47c5f8b43ef0
 ---
 This resource contains information regarding problem set 10.
-

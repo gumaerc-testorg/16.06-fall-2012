@@ -5,6 +5,7 @@ file: /courses/16-06-principles-of-automatic-control-fall-2012/753509537d9355168
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 16.06 Principles of Automatic Control, Lecture 7
 uid: 75350953-7d93-5516-845d-3f7457f6bd4a
 ---
 This file contains information regarding lecture 7.
-

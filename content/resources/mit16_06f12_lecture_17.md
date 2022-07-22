@@ -5,6 +5,7 @@ file: /courses/16-06-principles-of-automatic-control-fall-2012/bc37be7b3dcc54ee0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

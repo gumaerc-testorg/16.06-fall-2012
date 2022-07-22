@@ -5,6 +5,7 @@ file: /courses/16-06-principles-of-automatic-control-fall-2012/82a3a9b474b86097d
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 16.06 Principles of Automatic Control, Recitation 2
 uid: 82a3a9b4-74b8-6097-dda2-69af65cd26a4
 ---
 This resource contains information regarding recitation 2.
-
