@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: This instructor insights page includes a video in which Prof. Steven
+  Hall describes the feedback and response benefits of active learning recitations.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 0c83e7ab-b911-a490-9f77-5c8b6f18ba76
 title: The Advantages of Active Learning
 uid: 5e0124de-09dd-c33f-d814-26341e08fa9d

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides notes from the active learning recitations of the
+  course.
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: 1be81c0a-758a-a999-1f4d-0017f0104003
 ---
@@ -24,7 +29,7 @@ ASSIGNMENTS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Effect of feedback (PDF)]({{< baseurl >}}/resources/mit16_06f12_recitation_1)
+{{% resource_link 73db4620-a30a-8f23-e28a-4e5cc3fa3d03 "Effect of feedback (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +38,7 @@ ASSIGNMENTS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Step response problems (PDF)]({{< baseurl >}}/resources/mit16_06f12_recitation_2)
+{{% resource_link 82a3a9b4-74b8-6097-dda2-69af65cd26a4 "Step response problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +47,7 @@ ASSIGNMENTS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Routh array problems (PDF)]({{< baseurl >}}/resources/mit16_06f12_recitation_3)
+{{% resource_link 9fad6707-ac03-3c1f-d154-bef9ba24e854 "Routh array problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +56,7 @@ ASSIGNMENTS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Root locus problems (PDF)]({{< baseurl >}}/resources/mit16_06f12_recitation_4)
+{{% resource_link a67ac256-2a6b-9438-6b79-cf03810658de "Root locus problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +65,7 @@ ASSIGNMENTS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Root locus problems (cont.) (PDF)]({{< baseurl >}}/resources/mit16_06f12_recitation_5)
+{{% resource_link 3e0110be-3a09-d34f-4ef2-044cbd093446 "Root locus problems (cont.) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +74,7 @@ ASSIGNMENTS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Bode diagram problems (PDF)]({{< baseurl >}}/resources/mit16_06f12_recitation_6)
+{{% resource_link 4bdc391d-26fe-bf38-f24e-a8c0d8376c69 "Bode diagram problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ ASSIGNMENTS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Nyquist plot problems (PDF)]({{< baseurl >}}/resources/mit16_06f12_recitation_7)
+{{% resource_link e2197ab1-4e78-7caa-2978-d18cbd813bea "Nyquist plot problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +92,7 @@ ASSIGNMENTS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[PD controller design problem (PDF)]({{< baseurl >}}/resources/mit16_06f12_recitation_8)
+{{% resource_link 8e45d7de-1113-cdab-891b-5e8ebda3aa06 "PD controller design problem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +101,7 @@ ASSIGNMENTS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Lead compensator design problem (PDF)]({{< baseurl >}}/resources/mit16_06f12_recitation_9)
+{{% resource_link dafc6b8f-9a3f-3c16-b877-5ab56573f4de "Lead compensator design problem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +110,7 @@ ASSIGNMENTS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Compensation strategy design problem (PDF)]({{< baseurl >}}/resources/mit16_06f12_recitation_10)
+{{% resource_link 50e5b106-2509-c5a3-52d0-a70607363680 "Compensation strategy design problem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +119,7 @@ ASSIGNMENTS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Nichols plot problem (PDF)]({{< baseurl >}}/resources/mit16_06f12_recitation_11)
+{{% resource_link 4a57e45a-c6d7-9274-072a-f665524fdcf7 "Nichols plot problem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +128,7 @@ ASSIGNMENTS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Discrete-time controller design problem (PDF)]({{< baseurl >}}/resources/mit16_06f12_recitation_12)
+{{% resource_link 5e824afd-8ad8-4569-e270-baf48ce45f8f "Discrete-time controller design problem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +137,7 @@ ASSIGNMENTS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Discrete-time controller design problem (PDF)]({{< baseurl >}}/resources/mit16_06f12_recitation_13)
+{{% resource_link b1c88383-6955-c2d9-7406-07a9a74a827b "Discrete-time controller design problem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
