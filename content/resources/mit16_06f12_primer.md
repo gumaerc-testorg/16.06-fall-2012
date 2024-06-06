@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding a primer on solving systems
   of linear equations.
 file: /courses/16-06-principles-of-automatic-control-fall-2012/c507f498eabaa8365599e4b2950f6061_MIT16_06F12_primer.pdf
+file_size: 207494
 file_type: application/pdf
 learning_resource_types:
 - Readings
