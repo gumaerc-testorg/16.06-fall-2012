@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to lecture 35.
 file: /courses/16-06-principles-of-automatic-control-fall-2012/8248aa5080bbdc62304fb7b037059939_MIT16_06F12_Lecture_35.pdf
+file_size: 155765
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
