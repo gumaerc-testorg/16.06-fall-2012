@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-06-principles-of-automatic-control-fall-2012/e3b051430327ca4bcd113e7ef740bf41_16-06_stat-students.png
+file_size: 2950
 file_type: image/png
 image_metadata:
   caption: ''

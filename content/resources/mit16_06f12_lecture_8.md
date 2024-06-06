@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 8.
 file: /courses/16-06-principles-of-automatic-control-fall-2012/c78d5a88c7b94835fc63da835ce77553_MIT16_06F12_Lecture_8.pdf
+file_size: 241597
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

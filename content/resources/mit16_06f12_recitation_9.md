@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding recitation 9.
 file: /courses/16-06-principles-of-automatic-control-fall-2012/dafc6b8f9a3f3c16b8775ab56573f4de_MIT16_06F12_Recitation_9.pdf
+file_size: 191436
 file_type: application/pdf
 learning_resource_types:
 - Recitations

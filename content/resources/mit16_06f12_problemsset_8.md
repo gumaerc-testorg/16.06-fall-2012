@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding problem set 8.
 file: /courses/16-06-principles-of-automatic-control-fall-2012/409bd923625e2cb0527a95c0f674260d_MIT16_06F12_ProblemsSet_8.pdf
+file_size: 101126
 file_type: application/pdf
 learning_resource_types:
 - Assignments
