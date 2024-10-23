@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to lecture 21.
-file: /courses/16-06-principles-of-automatic-control-fall-2012/945c6d3707691dd39a50cc960b95df33_MIT16_06F12_Lecture_21.pdf
+file: /ol-ocw-studio-app/courses/16-06-principles-of-automatic-control-fall-2012/945c6d3707691dd39a50cc960b95df33_MIT16_06F12_Lecture_21.pdf
 file_size: 207456
 file_type: application/pdf
 learning_resource_types:
