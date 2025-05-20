@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to lecture 24.
-file: /ol-ocw-studio-app/courses/16-06-principles-of-automatic-control-fall-2012/bb5385a4663a7a30f57d69c0e8d74f18_MIT16_06F12_Lecture_24.pdf
+file: /courses/16-06-principles-of-automatic-control-fall-2012/bb5385a4663a7a30f57d69c0e8d74f18_MIT16_06F12_Lecture_24.pdf
 file_size: 199144
 file_type: application/pdf
 learning_resource_types:

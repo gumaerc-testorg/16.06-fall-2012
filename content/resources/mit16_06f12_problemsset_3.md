@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding problem set 3.
-file: /ol-ocw-studio-app/courses/16-06-principles-of-automatic-control-fall-2012/aa8014d0bb947936c9579962c6012dc9_MIT16_06F12_ProblemsSet_3.pdf
+file: /courses/16-06-principles-of-automatic-control-fall-2012/aa8014d0bb947936c9579962c6012dc9_MIT16_06F12_ProblemsSet_3.pdf
 file_size: 108755
 file_type: application/pdf
 learning_resource_types:

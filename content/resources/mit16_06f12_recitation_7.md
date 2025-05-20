@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding recitation 7.
-file: /ol-ocw-studio-app/courses/16-06-principles-of-automatic-control-fall-2012/e2197ab14e787caa2978d18cbd813bea_MIT16_06F12_Recitation_7.pdf
+file: /courses/16-06-principles-of-automatic-control-fall-2012/e2197ab14e787caa2978d18cbd813bea_MIT16_06F12_Recitation_7.pdf
 file_size: 186975
 file_type: application/pdf
 learning_resource_types:
