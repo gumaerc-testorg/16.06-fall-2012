@@ -17,7 +17,7 @@ uid: 5b3694e8-81dd-d2ff-d659-bba0e4b39f24
 
 ## Start Small Before Wading In
 
-When I first started using active learning techniques in my course, I was initially uncomfortable with the active techniques. I found it helpful to start off small get a little confidence and wade in. You might start with [muddy cards](http://www.cdio.org/files/mudcards.pdf) or a few concept questions. But my experience usually is the more active a class is, the better. It is very seldom that there is too much active learning in a classroom.
+When I first started using active learning techniques in my course, I was initially uncomfortable with the active techniques. I found it helpful to start off small get a little confidence and wade in. You might start with {{% resource_link "f79a35d9-9de4-4e6b-bbd2-69fdd92a3e62" "muddy cards" %}} or a few concept questions. But my experience usually is the more active a class is, the better. It is very seldom that there is too much active learning in a classroom.
 
 ## Courses Best Suited for Stand-up Recitations
 
