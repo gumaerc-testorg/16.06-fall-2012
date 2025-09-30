@@ -57,7 +57,7 @@ In following pages, Prof. Hall discusses specific aspects of how and why he uses
 
 ### Requirements Satisfied
 
-- Can be applied toward a [Bachelor of Science in Engineering](https://catalog.mit.edu/degree-charts/engineering-aeronautics-astronautics-course-16-eng/) degree in Aeronautics and Astronautics, but is not required.
+- Can be applied toward a {{% resource_link "7e7dbea3-b3dd-4eaf-ba82-c23654986dec" "Bachelor of Science in Engineering" %}} degree in Aeronautics and Astronautics, but is not required.
 
 ### Offered
 
