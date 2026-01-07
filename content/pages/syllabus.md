@@ -129,7 +129,7 @@ Participation and assessment of staff
 
 Note that attendance in lectures and recitations is mandatory and failure to attend on a regular basis will affect your grade.
 
-Grades in 16.06 are based on the {{% resource_link "98d9acde-eb0e-4360-97c8-fc03e74aefe2" "official MIT grading policy" %}}.
+Grades in 16.06 are based on the [official MIT grading policy](https://registrar.mit.edu/classes-grades-evaluations/grades/grading-policies).
 
 Collaboration and Academic Honesty
 ----------------------------------
@@ -138,7 +138,7 @@ In this course, you may collaborate with others on the solution of problem sets,
 
 You may **not** use sources such as the solutions from prior offerings of 16.06, whether the solutions were the official solutions from the course staff or the solutions of students, no matter the source (OCW, "bibles," etc.)
 
-It is dishonest and counterproductive to copy the work of others and submit it as if it were your own. The goal of doing problems is to learn the material; the goal is not to turn in the right answer, or surprisingly, even to get a good grade. If you are unable to do the problem sets on your own, it is very unlikely that you will do well on the quizzes. Plagiarism and other forms of cheating are a severe breach of the codes of the Institute and the engineering profession and will be dealt with as such. Violations of these guidelines will be dealt with as per section 10.2 of the MIT Policies and Procedures. A useful discussion of these issues may be found {{% resource_link "d3135f5c-f772-4648-91e6-294678591433" "here" %}}.
+It is dishonest and counterproductive to copy the work of others and submit it as if it were your own. The goal of doing problems is to learn the material; the goal is not to turn in the right answer, or surprisingly, even to get a good grade. If you are unable to do the problem sets on your own, it is very unlikely that you will do well on the quizzes. Plagiarism and other forms of cheating are a severe breach of the codes of the Institute and the engineering profession and will be dealt with as such. Violations of these guidelines will be dealt with as per section 10.2 of the MIT Policies and Procedures. A useful discussion of these issues may be found [here](http://web.mit.edu/academicintegrity/).
 
 Late Assignments and Missed Quizzes
 -----------------------------------
